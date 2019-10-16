@@ -1,19 +1,22 @@
 {
   "name": "elixer-rtl-css",
   "version": "1.0.0",
-  "description": "handle css ltr to rtl",
+  "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedramkouasri/elixer-rtl-css.git"
+  },
   "keywords": [
-    "rtl-css",
     "elixer-rtl"
   ],
-  "author": {
-    "name": "pedram kousari"
-  },
+  "author": "pedram kousari",
   "license": "ISC",
-  "devDependencies": {
-    "laravel-elixir": "^3.4.3",
-    "gulp-rtlcss": "^1.2.0"
-  }
+  "bugs": {
+    "url": "https://github.com/pedramkouasri/elixer-rtl-css/issues"
+  },
+  "homepage": "https://github.com/pedramkouasri/elixer-rtl-css#readme"
 }
