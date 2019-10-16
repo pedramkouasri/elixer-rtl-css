@@ -1,0 +1,19 @@
+{
+  "name": "elixer-rtl-css",
+  "version": "1.0.0",
+  "description": "handle css ltr to rtl",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "rtl-css",
+    "elixer-rtl"
+  ],
+  "author": {
+    "name": "pedram kousari"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-elixir": "^3.4.3",
+    "gulp-rtlcss": "^1.2.0"
+  }
+}
