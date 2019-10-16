@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/pedramkouasri/elixer-rtl-css/issues"
   },
-  "homepage": "https://github.com/pedramkouasri/elixer-rtl-css#readme"
+  "homepage": "https://github.com/pedramkouasri/elixer-rtl-css#readme",
+  "dependencies": {
+    "gulp-rtlcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "laravel-elixir": "^3.4.3"
+  }
 }
